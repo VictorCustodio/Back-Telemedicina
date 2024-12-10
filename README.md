@@ -1,6 +1,4 @@
-Entendido! Todo o texto já está formatado em Markdown, basta copiá-lo e colar diretamente no arquivo `README.md` no GitHub. Aqui está novamente:
 
-```markdown
 # Projeto de Autenticação com NestJS e Prisma
 
 Este projeto é um exemplo prático de autenticação de usuários utilizando NestJS, Prisma e JWT. Ele implementa funcionalidades como login de usuários e requisição de informações sobre médicos.
