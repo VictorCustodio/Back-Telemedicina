@@ -1,0 +1,20 @@
+@base_url = http://localhost:3333
+POST http://localhost:3333/accounts
+Content-Type: application/json
+
+{
+  "name": "Ron",
+  "email": "rond34@gmail.com",
+  "password": "123456"
+}
+
+###
+
+POST http://localhost:3333/accounts
+Content-Type: application/json
+
+{
+  "name": "Roger",
+  "email": "roger@gmail.com",
+  "password": "123456"
+}
